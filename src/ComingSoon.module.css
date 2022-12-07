@@ -49,6 +49,7 @@ body {
   z-index: 1;
   display: grid;
   gap: 8px;
+  padding: 2rem;
 }
 
 .heading {
